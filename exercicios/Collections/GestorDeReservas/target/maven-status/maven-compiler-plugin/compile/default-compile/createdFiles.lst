@@ -1,5 +1,5 @@
-com\mycompany\gestordereservas\Reserva.class
 com\mycompany\gestordereservas\Voo.class
+com\mycompany\gestordereservas\Passagem.class
 com\mycompany\gestordereservas\GestorDeReservas.class
 com\mycompany\gestordereservas\Passageiro.class
 com\mycompany\gestordereservas\Pessoa.class
