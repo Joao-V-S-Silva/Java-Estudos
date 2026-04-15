@@ -1,0 +1,4 @@
+com\mycompany\cadastrocomvalidacao\CadastroComValidacao.class
+com\mycompany\cadastrocomvalidacao\NomeVazioException.class
+com\mycompany\cadastrocomvalidacao\IdadeInvalidaException.class
+com\mycompany\cadastrocomvalidacao\Pessoa.class

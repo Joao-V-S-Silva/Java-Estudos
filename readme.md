@@ -2,7 +2,7 @@
 
 Repositório dedicado a estudos em Java, incluindo exercícios de lógica, testes de conceitos e pequenos protótipos.
 
-## 📁 Estrutura
+## Estrutura
 
 ### Exercícios
 
@@ -15,6 +15,6 @@ Exploração de funcionalidades específicas do Java:
 Pequenos projetos experimentais:
 
 
-## 🛠 Tecnologias
+## Tecnologias
 - Java
 - Spring Boot
